@@ -926,6 +926,15 @@ CSSFA;2026,0;8,0;Unidade Urgência Emergência Ginecológica-Obstetrícia;148,0
 CSSFA;2026,0;8,0;Unidade Urgência/Emergência;148,0
 CSSFA;2026,0;8,0;Unidade Urgência-Emergência;148,0
 CSSFA;2026,0;8,0;UUE/HRB/CHB;148,0
+CSSFA;2026,0;9,0;Pronto Atendimento;8,0
+CSSFA;2026,0;9,0;UDC - Unidade de Decisão Clínica;8,0
+CSSFA;2026,0;9,0;Unidade de Decisão Clinica;8,0
+CSSFA;2026,0;9,0;Unidade de Decisão Clínica;8,0
+CSSFA;2026,0;9,0;Unidade de Urgência - Maternidade;8,0
+CSSFA;2026,0;9,0;Unidade Urgência Emergência Ginecológica-Obstetrícia;8,0
+CSSFA;2026,0;9,0;Unidade Urgência/Emergência;8,0
+CSSFA;2026,0;9,0;Unidade Urgência-Emergência;8,0
+CSSFA;2026,0;9,0;UUE/HRB/CHB;8,0
 CSSFE;2019,0;1,0;Pronto Atendimento;43,0
 CSSFE;2019,0;1,0;UDC - Unidade de Decisão Clínica;43,0
 CSSFE;2019,0;1,0;Unidade de Decisão Clinica;43,0
@@ -1978,6 +1987,7 @@ CSSI;2026,0;5,0;Unidade Urgência/Emergência;2654,0
 CSSI;2026,0;6,0;Unidade Urgência/Emergência;2882,0
 CSSI;2026,0;7,0;Unidade Urgência/Emergência;2700,0
 CSSI;2026,0;8,0;Unidade Urgência/Emergência;2820,0
+CSSI;2026,0;9,0;Unidade Urgência/Emergência;2806,0
 HAC;2019,0;1,0;Pronto Atendimento;1712,0
 HAC;2019,0;1,0;UDC - Unidade de Decisão Clínica;1712,0
 HAC;2019,0;1,0;Unidade de Decisão Clinica;1712,0
@@ -2724,8 +2734,9 @@ HAC;2026,0;3,0;UDC - Unidade de Decisão Clínica;394,0
 HAC;2026,0;4,0;UDC - Unidade de Decisão Clínica;436,0
 HAC;2026,0;5,0;UDC - Unidade de Decisão Clínica;439,0
 HAC;2026,0;6,0;UDC - Unidade de Decisão Clínica;370,0
-HAC;2026,0;7,0;UDC - Unidade de Decisão Clínica;450,0
+HAC;2026,0;7,0;UDC - Unidade de Decisão Clínica;451,0
 HAC;2026,0;8,0;UDC - Unidade de Decisão Clínica;396,0
+HAC;2026,0;9,0;UDC - Unidade de Decisão Clínica;446,0
 HCM;2019,0;1,0;Pronto Atendimento;1,0
 HCM;2019,0;1,0;UDC - Unidade de Decisão Clínica;1,0
 HCM;2019,0;1,0;Unidade de Decisão Clinica;1,0
@@ -4355,15 +4366,15 @@ HIJPII;2026,0;3,0;Unidade Urgência Emergência Ginecológica-Obstetrícia;4357,
 HIJPII;2026,0;3,0;Unidade Urgência/Emergência;4357,0
 HIJPII;2026,0;3,0;Unidade Urgência-Emergência;4357,0
 HIJPII;2026,0;3,0;UUE/HRB/CHB;4357,0
-HIJPII;2026,0;4,0;Pronto Atendimento;4442,0
-HIJPII;2026,0;4,0;UDC - Unidade de Decisão Clínica;4442,0
-HIJPII;2026,0;4,0;Unidade de Decisão Clinica;4442,0
-HIJPII;2026,0;4,0;Unidade de Decisão Clínica;4442,0
-HIJPII;2026,0;4,0;Unidade de Urgência - Maternidade;4442,0
-HIJPII;2026,0;4,0;Unidade Urgência Emergência Ginecológica-Obstetrícia;4442,0
-HIJPII;2026,0;4,0;Unidade Urgência/Emergência;4442,0
-HIJPII;2026,0;4,0;Unidade Urgência-Emergência;4442,0
-HIJPII;2026,0;4,0;UUE/HRB/CHB;4442,0
+HIJPII;2026,0;4,0;Pronto Atendimento;4441,0
+HIJPII;2026,0;4,0;UDC - Unidade de Decisão Clínica;4441,0
+HIJPII;2026,0;4,0;Unidade de Decisão Clinica;4441,0
+HIJPII;2026,0;4,0;Unidade de Decisão Clínica;4441,0
+HIJPII;2026,0;4,0;Unidade de Urgência - Maternidade;4441,0
+HIJPII;2026,0;4,0;Unidade Urgência Emergência Ginecológica-Obstetrícia;4441,0
+HIJPII;2026,0;4,0;Unidade Urgência/Emergência;4441,0
+HIJPII;2026,0;4,0;Unidade Urgência-Emergência;4441,0
+HIJPII;2026,0;4,0;UUE/HRB/CHB;4441,0
 HIJPII;2026,0;5,0;Pronto Atendimento;4128,0
 HIJPII;2026,0;5,0;UDC - Unidade de Decisão Clínica;4128,0
 HIJPII;2026,0;5,0;Unidade de Decisão Clinica;4128,0
@@ -4373,33 +4384,42 @@ HIJPII;2026,0;5,0;Unidade Urgência Emergência Ginecológica-Obstetrícia;4128,
 HIJPII;2026,0;5,0;Unidade Urgência/Emergência;4128,0
 HIJPII;2026,0;5,0;Unidade Urgência-Emergência;4128,0
 HIJPII;2026,0;5,0;UUE/HRB/CHB;4128,0
-HIJPII;2026,0;6,0;Pronto Atendimento;3731,0
-HIJPII;2026,0;6,0;UDC - Unidade de Decisão Clínica;3731,0
-HIJPII;2026,0;6,0;Unidade de Decisão Clinica;3731,0
-HIJPII;2026,0;6,0;Unidade de Decisão Clínica;3731,0
-HIJPII;2026,0;6,0;Unidade de Urgência - Maternidade;3731,0
-HIJPII;2026,0;6,0;Unidade Urgência Emergência Ginecológica-Obstetrícia;3731,0
-HIJPII;2026,0;6,0;Unidade Urgência/Emergência;3731,0
-HIJPII;2026,0;6,0;Unidade Urgência-Emergência;3731,0
-HIJPII;2026,0;6,0;UUE/HRB/CHB;3731,0
-HIJPII;2026,0;7,0;Pronto Atendimento;3493,0
-HIJPII;2026,0;7,0;UDC - Unidade de Decisão Clínica;3493,0
-HIJPII;2026,0;7,0;Unidade de Decisão Clinica;3493,0
-HIJPII;2026,0;7,0;Unidade de Decisão Clínica;3493,0
-HIJPII;2026,0;7,0;Unidade de Urgência - Maternidade;3493,0
-HIJPII;2026,0;7,0;Unidade Urgência Emergência Ginecológica-Obstetrícia;3493,0
-HIJPII;2026,0;7,0;Unidade Urgência/Emergência;3493,0
-HIJPII;2026,0;7,0;Unidade Urgência-Emergência;3493,0
-HIJPII;2026,0;7,0;UUE/HRB/CHB;3493,0
-HIJPII;2026,0;8,0;Pronto Atendimento;2800,0
-HIJPII;2026,0;8,0;UDC - Unidade de Decisão Clínica;2800,0
-HIJPII;2026,0;8,0;Unidade de Decisão Clinica;2800,0
-HIJPII;2026,0;8,0;Unidade de Decisão Clínica;2800,0
-HIJPII;2026,0;8,0;Unidade de Urgência - Maternidade;2800,0
-HIJPII;2026,0;8,0;Unidade Urgência Emergência Ginecológica-Obstetrícia;2800,0
-HIJPII;2026,0;8,0;Unidade Urgência/Emergência;2800,0
-HIJPII;2026,0;8,0;Unidade Urgência-Emergência;2800,0
-HIJPII;2026,0;8,0;UUE/HRB/CHB;2800,0
+HIJPII;2026,0;6,0;Pronto Atendimento;3727,0
+HIJPII;2026,0;6,0;UDC - Unidade de Decisão Clínica;3727,0
+HIJPII;2026,0;6,0;Unidade de Decisão Clinica;3727,0
+HIJPII;2026,0;6,0;Unidade de Decisão Clínica;3727,0
+HIJPII;2026,0;6,0;Unidade de Urgência - Maternidade;3727,0
+HIJPII;2026,0;6,0;Unidade Urgência Emergência Ginecológica-Obstetrícia;3727,0
+HIJPII;2026,0;6,0;Unidade Urgência/Emergência;3727,0
+HIJPII;2026,0;6,0;Unidade Urgência-Emergência;3727,0
+HIJPII;2026,0;6,0;UUE/HRB/CHB;3727,0
+HIJPII;2026,0;7,0;Pronto Atendimento;3492,0
+HIJPII;2026,0;7,0;UDC - Unidade de Decisão Clínica;3492,0
+HIJPII;2026,0;7,0;Unidade de Decisão Clinica;3492,0
+HIJPII;2026,0;7,0;Unidade de Decisão Clínica;3492,0
+HIJPII;2026,0;7,0;Unidade de Urgência - Maternidade;3492,0
+HIJPII;2026,0;7,0;Unidade Urgência Emergência Ginecológica-Obstetrícia;3492,0
+HIJPII;2026,0;7,0;Unidade Urgência/Emergência;3492,0
+HIJPII;2026,0;7,0;Unidade Urgência-Emergência;3492,0
+HIJPII;2026,0;7,0;UUE/HRB/CHB;3492,0
+HIJPII;2026,0;8,0;Pronto Atendimento;2794,0
+HIJPII;2026,0;8,0;UDC - Unidade de Decisão Clínica;2794,0
+HIJPII;2026,0;8,0;Unidade de Decisão Clinica;2794,0
+HIJPII;2026,0;8,0;Unidade de Decisão Clínica;2794,0
+HIJPII;2026,0;8,0;Unidade de Urgência - Maternidade;2794,0
+HIJPII;2026,0;8,0;Unidade Urgência Emergência Ginecológica-Obstetrícia;2794,0
+HIJPII;2026,0;8,0;Unidade Urgência/Emergência;2794,0
+HIJPII;2026,0;8,0;Unidade Urgência-Emergência;2794,0
+HIJPII;2026,0;8,0;UUE/HRB/CHB;2794,0
+HIJPII;2026,0;9,0;Pronto Atendimento;2887,0
+HIJPII;2026,0;9,0;UDC - Unidade de Decisão Clínica;2887,0
+HIJPII;2026,0;9,0;Unidade de Decisão Clinica;2887,0
+HIJPII;2026,0;9,0;Unidade de Decisão Clínica;2887,0
+HIJPII;2026,0;9,0;Unidade de Urgência - Maternidade;2887,0
+HIJPII;2026,0;9,0;Unidade Urgência Emergência Ginecológica-Obstetrícia;2887,0
+HIJPII;2026,0;9,0;Unidade Urgência/Emergência;2887,0
+HIJPII;2026,0;9,0;Unidade Urgência-Emergência;2887,0
+HIJPII;2026,0;9,0;UUE/HRB/CHB;2887,0
 HJK;2019,0;1,0;Pronto Atendimento;3515,0
 HJK;2019,0;1,0;UDC - Unidade de Decisão Clínica;3515,0
 HJK;2019,0;1,0;Unidade de Decisão Clinica;3515,0
@@ -5175,17 +5195,19 @@ HJK;2026,0;2,0;Unidade Urgência/Emergência;3403,0
 HJK;2026,0;2,0;Unidade Urgência-Emergência;4045,0
 HJK;2026,0;2,0;UUE/HRB/CHB;3403,0
 HJK;2026,0;3,0;Unidade Urgência Emergência Ginecológica-Obstetrícia;1290,0
-HJK;2026,0;3,0;Unidade Urgência-Emergência;4586,0
+HJK;2026,0;3,0;Unidade Urgência-Emergência;4587,0
 HJK;2026,0;4,0;Unidade Urgência Emergência Ginecológica-Obstetrícia;1246,0
-HJK;2026,0;4,0;Unidade Urgência-Emergência;4643,0
+HJK;2026,0;4,0;Unidade Urgência-Emergência;4644,0
 HJK;2026,0;5,0;Unidade Urgência Emergência Ginecológica-Obstetrícia;1176,0
-HJK;2026,0;5,0;Unidade Urgência-Emergência;4894,0
+HJK;2026,0;5,0;Unidade Urgência-Emergência;4895,0
 HJK;2026,0;6,0;Unidade Urgência Emergência Ginecológica-Obstetrícia;1203,0
 HJK;2026,0;6,0;Unidade Urgência-Emergência;4887,0
 HJK;2026,0;7,0;Unidade Urgência Emergência Ginecológica-Obstetrícia;1251,0
 HJK;2026,0;7,0;Unidade Urgência-Emergência;5148,0
 HJK;2026,0;8,0;Unidade Urgência Emergência Ginecológica-Obstetrícia;1346,0
 HJK;2026,0;8,0;Unidade Urgência-Emergência;4880,0
+HJK;2026,0;9,0;Unidade Urgência Emergência Ginecológica-Obstetrícia;1253,0
+HJK;2026,0;9,0;Unidade Urgência-Emergência;4790,0
 HJXXIII;2019,0;1,0;Pronto Atendimento;6465,0
 HJXXIII;2019,0;1,0;UDC - Unidade de Decisão Clínica;6465,0
 HJXXIII;2019,0;1,0;Unidade de Decisão Clinica;6465,0
@@ -6014,6 +6036,15 @@ HJXXIII;2026,0;8,0;Unidade Urgência Emergência Ginecológica-Obstetrícia;6675
 HJXXIII;2026,0;8,0;Unidade Urgência/Emergência;6675,0
 HJXXIII;2026,0;8,0;Unidade Urgência-Emergência;6675,0
 HJXXIII;2026,0;8,0;UUE/HRB/CHB;6675,0
+HJXXIII;2026,0;9,0;Pronto Atendimento;6479,0
+HJXXIII;2026,0;9,0;UDC - Unidade de Decisão Clínica;6479,0
+HJXXIII;2026,0;9,0;Unidade de Decisão Clinica;6479,0
+HJXXIII;2026,0;9,0;Unidade de Decisão Clínica;6479,0
+HJXXIII;2026,0;9,0;Unidade de Urgência - Maternidade;6479,0
+HJXXIII;2026,0;9,0;Unidade Urgência Emergência Ginecológica-Obstetrícia;6479,0
+HJXXIII;2026,0;9,0;Unidade Urgência/Emergência;6479,0
+HJXXIII;2026,0;9,0;Unidade Urgência-Emergência;6479,0
+HJXXIII;2026,0;9,0;UUE/HRB/CHB;6479,0
 HMAL;2019,0;2,0;Pronto Atendimento;3,0
 HMAL;2019,0;2,0;UDC - Unidade de Decisão Clínica;3,0
 HMAL;2019,0;2,0;Unidade de Decisão Clinica;3,0
@@ -6725,6 +6756,15 @@ HMAL;2026,0;8,0;Unidade Urgência Emergência Ginecológica-Obstetrícia;7,0
 HMAL;2026,0;8,0;Unidade Urgência/Emergência;7,0
 HMAL;2026,0;8,0;Unidade Urgência-Emergência;7,0
 HMAL;2026,0;8,0;UUE/HRB/CHB;7,0
+HMAL;2026,0;9,0;Pronto Atendimento;9,0
+HMAL;2026,0;9,0;UDC - Unidade de Decisão Clínica;9,0
+HMAL;2026,0;9,0;Unidade de Decisão Clinica;9,0
+HMAL;2026,0;9,0;Unidade de Decisão Clínica;9,0
+HMAL;2026,0;9,0;Unidade de Urgência - Maternidade;9,0
+HMAL;2026,0;9,0;Unidade Urgência Emergência Ginecológica-Obstetrícia;9,0
+HMAL;2026,0;9,0;Unidade Urgência/Emergência;9,0
+HMAL;2026,0;9,0;Unidade Urgência-Emergência;9,0
+HMAL;2026,0;9,0;UUE/HRB/CHB;9,0
 HRAD;2019,0;1,0;Pronto Atendimento;1025,0
 HRAD;2019,0;1,0;UDC - Unidade de Decisão Clínica;1025,0
 HRAD;2019,0;1,0;Unidade de Decisão Clinica;1025,0
@@ -7537,6 +7577,7 @@ HRAD;2026,0;6,0;Unidade Urgência-Emergência;321,0
 HRAD;2026,0;6,0;UUE/HRB/CHB;321,0
 HRAD;2026,0;7,0;Unidade de Decisão Clinica;1107,0
 HRAD;2026,0;8,0;Unidade de Decisão Clinica;1077,0
+HRAD;2026,0;9,0;Unidade de Decisão Clinica;1197,0
 HRBJA;2019,0;1,0;Pronto Atendimento;49,0
 HRBJA;2019,0;1,0;UDC - Unidade de Decisão Clínica;49,0
 HRBJA;2019,0;1,0;Unidade de Decisão Clinica;49,0
@@ -8157,6 +8198,7 @@ HRBJA;2026,0;5,0;UUE/HRB/CHB;3395,0
 HRBJA;2026,0;6,0;UUE/HRB/CHB;3251,0
 HRBJA;2026,0;7,0;UUE/HRB/CHB;3552,0
 HRBJA;2026,0;8,0;UUE/HRB/CHB;2692,0
+HRBJA;2026,0;9,0;UUE/HRB/CHB;1503,0
 HRJP;2019,0;1,0;Pronto Atendimento;652,0
 HRJP;2019,0;1,0;UDC - Unidade de Decisão Clínica;652,0
 HRJP;2019,0;1,0;Unidade de Decisão Clinica;652,0
@@ -8836,6 +8878,8 @@ HRJP;2026,0;7,0;Unidade de Decisão Clínica;45,0
 HRJP;2026,0;7,0;Unidade de Urgência - Maternidade;460,0
 HRJP;2026,0;8,0;Unidade de Decisão Clínica;3,0
 HRJP;2026,0;8,0;Unidade de Urgência - Maternidade;509,0
+HRJP;2026,0;9,0;Unidade de Decisão Clínica;11,0
+HRJP;2026,0;9,0;Unidade de Urgência - Maternidade;525,0
 IRS;2019,0;1,0;Pronto Atendimento;317,0
 IRS;2019,0;1,0;UDC - Unidade de Decisão Clínica;317,0
 IRS;2019,0;1,0;Unidade de Decisão Clinica;317,0
@@ -9376,6 +9420,7 @@ IRS;2026,0;5,0;Unidade Urgência/Emergência;351,0
 IRS;2026,0;6,0;Unidade Urgência/Emergência;306,0
 IRS;2026,0;7,0;Unidade Urgência/Emergência;314,0
 IRS;2026,0;8,0;Unidade Urgência/Emergência;320,0
+IRS;2026,0;9,0;Unidade Urgência/Emergência;313,0
 MOV;2019,0;1,0;Pronto Atendimento;2073,0
 MOV;2019,0;1,0;UDC - Unidade de Decisão Clínica;2073,0
 MOV;2019,0;1,0;Unidade de Decisão Clinica;2073,0
@@ -9884,5 +9929,6 @@ MOV;2026,0;5,0;Unidade Urgência/Emergência;1646,0
 MOV;2026,0;6,0;Unidade Urgência/Emergência;1585,0
 MOV;2026,0;7,0;Unidade Urgência/Emergência;1816,0
 MOV;2026,0;8,0;Unidade Urgência/Emergência;1757,0
+MOV;2026,0;9,0;Unidade Urgência/Emergência;1714,0
 ;;;;
 Filtros aplicados: Setor de atendimento não está em branco total consultas urgencia não é 0 estabelecimento não é (Em branco), CEPAI ou MGT Status operacional é Filtro de Ex-Unidades AnoMes não é (Em branco);;;;
