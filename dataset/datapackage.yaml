@@ -8,8 +8,8 @@ resources:
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: consultas-urgencia-2025
-    path: data/consultas-urgencia-2025.csv
+    name: consultas-urgencia
+    path: data/consultas-urgencia.csv
     profile: tabular-data-resource
     schema:
       fields:
